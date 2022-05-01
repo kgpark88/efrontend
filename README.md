@@ -8,6 +8,7 @@ git clone https://github.com/kgpark88/efrontend
 
 ## 2. Project Setup
 ```
+cd efrontend
 npm install
 ```
 
