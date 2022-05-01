@@ -1,16 +1,22 @@
 # 에너지 빅데이터 분석 프론트엔드
 
-## Project setup
+
+## 1. Source Download
+```
+git clone https://github.com/kgpark88/efrontend
+```
+
+## 2. Project Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 3. Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 4. Compiles and minifies for production
 ```
 npm run build
 ```
