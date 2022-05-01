@@ -1,4 +1,4 @@
-# efrontend
+# 에너지 빅데이터 분석 프론트엔드
 
 ## Project setup
 ```
