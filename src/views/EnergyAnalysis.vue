@@ -107,8 +107,6 @@
         <v-col cols="12"></v-col>
       </v-row>
 
-      <v-divider></v-divider>
-
       <v-row class='ma-2'>
         <v-col cols="10">        
           <v-card-title>
@@ -174,8 +172,8 @@ export default {
 
     energy_usage: [],
     json_fields: {
-      '빌딩명': 'b_name',  
-      '일자': 'date_time',  
+      '빌딩': 'b_name',  
+      '일시': 'date_time',  
       '전기에너지 사용량': 'p_usage',  
       '온도': 'temp',  
       '습도': 'rh',  
