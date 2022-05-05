@@ -13,7 +13,7 @@
             prepend-icon="mdi-domain"
             menu-props="auto"
             hide-details
-            label="설비"
+            label="구분1"
           >
           </v-select>
         </v-col>

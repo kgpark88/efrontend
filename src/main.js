@@ -3,6 +3,7 @@ import App from './App.vue'
 import vuetify from './plugins/vuetify'
 import router from "./router"
 import VueMoment from 'vue-moment'
+import JsonExcel from 'vue-json-excel'
 
 import ECharts from 'vue-echarts'
 import { use } from 'echarts/core'
@@ -38,6 +39,7 @@ use([
 
 // register globally (or you can do it locally)
 Vue.component('v-chart', ECharts)
+Vue.component('downloadExcel', JsonExcel)
 
 Vue.config.productionTip = false
 

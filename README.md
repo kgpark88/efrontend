@@ -17,7 +17,7 @@ npm install
 npm run serve
 ```
 
-### 4. Compiles and minifies for production
+### Compiles and minifies for production
 ```
 npm run build
 ```
